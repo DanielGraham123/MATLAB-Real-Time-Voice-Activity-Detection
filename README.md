@@ -1,12 +1,12 @@
 # MATLAB-Real-Time-Voice-Activity-Detection
 Real Time Speech end points detection by spectral energy
 
-Demo video: https://youtu.be/M3WSWtJ7eag   
+### You can run this function by only p code!
 
-Sessions Overview: http://jarvus.dragonbeef.net/note/noteAudio.php
+#### Demo video
+https://youtu.be/M3WSWtJ7eag
 
-### You can run this code by only p code
-Full code for advanced cases:
-- Donate USD 30 ( TWD 900 )
-- Will provide m file and its manual
-- http://jarvus.dragonbeef.net/donate.php
+#### Introduction & M file
+https://medium.com/audio-processing-by-matlab/real-time-voice-activity-detection-by-spectral-energy-by-matlab-849b968f6243
+#### Tutorial & Contact Jarvus
+https://medium.com/audio-processing-by-matlab
